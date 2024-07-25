@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on boosting algorithms and testing of digital circuits.
 - 📫 How to reach me https://www.linkedin.com/in/jeet-govind-rao-35a860251/
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
 
 <!---
 tarantulass/tarantulass is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
